@@ -11,7 +11,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.3.5.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk</artifactId>
-			<version>1.11.399</version>
+			<version>1.11.903</version>
 			<exclusions>
 				<exclusion>
 					<groupId>com.amazonaws</groupId>
