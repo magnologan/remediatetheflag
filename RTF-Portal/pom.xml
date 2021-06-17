@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk</artifactId>
-			<version>1.11.399</version>
+			<version>1.11.882</version>
 			<exclusions>
 				<exclusion>
 					<groupId>com.amazonaws</groupId>
@@ -621,7 +621,7 @@
 		<dependency>
 			<groupId>org.owasp.esapi</groupId>
 			<artifactId>esapi</artifactId>
-			<version>2.1.0.1</version>
+			<version>2.2.3.0</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.owasp.antisamy</groupId>
